@@ -1,0 +1,10 @@
+.entry {
+    display: block;
+    width: 260px;
+    position: relative;
+    float: left;
+    text-align: center;
+  }
+  .ascii {  
+    display: block;  
+  }
